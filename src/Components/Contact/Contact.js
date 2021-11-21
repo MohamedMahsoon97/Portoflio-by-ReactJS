@@ -23,7 +23,7 @@ function Contact() {
                   }, (error) => {
                         console.log(error.text);
                   });
-            };
+      };
 
       return (
             <div className="contact">
