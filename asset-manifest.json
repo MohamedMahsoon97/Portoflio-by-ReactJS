@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portoflio-by-ReactJS/static/css/main.6d4e488c.chunk.css",
+    "main.css": "/Portoflio-by-ReactJS/static/css/main.ea32f126.chunk.css",
     "main.js": "/Portoflio-by-ReactJS/static/js/main.5b611d4d.chunk.js",
     "main.js.map": "/Portoflio-by-ReactJS/static/js/main.5b611d4d.chunk.js.map",
     "runtime-main.js": "/Portoflio-by-ReactJS/static/js/runtime-main.1561d179.js",
@@ -8,7 +8,7 @@
     "static/js/2.27acec51.chunk.js": "/Portoflio-by-ReactJS/static/js/2.27acec51.chunk.js",
     "static/js/2.27acec51.chunk.js.map": "/Portoflio-by-ReactJS/static/js/2.27acec51.chunk.js.map",
     "index.html": "/Portoflio-by-ReactJS/index.html",
-    "static/css/main.6d4e488c.chunk.css.map": "/Portoflio-by-ReactJS/static/css/main.6d4e488c.chunk.css.map",
+    "static/css/main.ea32f126.chunk.css.map": "/Portoflio-by-ReactJS/static/css/main.ea32f126.chunk.css.map",
     "static/js/2.27acec51.chunk.js.LICENSE.txt": "/Portoflio-by-ReactJS/static/js/2.27acec51.chunk.js.LICENSE.txt",
     "static/media/R.69067239.png": "/Portoflio-by-ReactJS/static/media/R.69067239.png",
     "static/media/about.ce0e2cc0.jpeg": "/Portoflio-by-ReactJS/static/media/about.ce0e2cc0.jpeg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.1561d179.js",
     "static/js/2.27acec51.chunk.js",
-    "static/css/main.6d4e488c.chunk.css",
+    "static/css/main.ea32f126.chunk.css",
     "static/js/main.5b611d4d.chunk.js"
   ]
 }
